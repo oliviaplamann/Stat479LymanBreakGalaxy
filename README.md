@@ -9,6 +9,6 @@
     - The most closely related spectrums will have the highest Correlation Coefficient distance metric
   - Compare the distance metric at each redshift between the test spectrum and cB58 to find the best match
   - Obtain the top 100 Test Spectrums and Graph the Best 10
-### Report
+### Final.html
 - File with final computational steps and graphs comparing the 10 best test spectrum and the cB58 Lyman-break galaxy
 - Note: The code using the CHTC cannot be published to GitHub as this is a recurring course at UW-Madison
